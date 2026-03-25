@@ -1,0 +1,63 @@
+[
+  {
+    "first_name": "Ashraf",
+    "last_name": "Asadi",
+    "email": "ashrf@example.com",
+    "courses": [
+      "Automata and Computability", 
+      "Physics", 
+      "Web", 
+      "AI", 
+      "Machine Learning"
+    ],
+    "favorite_link": "https://ashrfasadi.com"
+  },
+  {
+    "first_name": "Asad",
+    "last_name": "Rezek",
+    "email": "assad@example.com",
+    "courses": [
+      "Web Computability", 
+      "Physics", 
+      "AI", 
+      "Machine Learning"
+    ],
+    "favorite_link": "https://example.com"
+  },
+  {
+    "first_name": "Aya",
+    "last_name": "Mohammed",
+    "email": "Aya@example.com",
+    "courses": [
+      "Web Computability", 
+      "Physics", 
+      "AI", 
+      "Machine Learning"
+    ],
+    "favorite_link": "https://example.com"
+  },
+  {
+    "first_name": "Nora",
+    "last_name": "Abood",
+    "email": "Nora@example.coml",
+    "courses": [
+      "Web Computability", 
+      "Physics", 
+      "AI", 
+      "Machine Learning"
+    ],
+    "favorite_link": "https://example.com"
+  },
+  {
+    "first_name": "Marian",
+    "last_name": "Sayegh",
+    "email": "Marian@example.com",
+    "courses": [
+      "Web Computability", 
+      "Physics", 
+      "AI", 
+      "Machine Learning"
+    ],
+    "favorite_link": "https://example.com"
+  }
+]
