@@ -1,0 +1,5 @@
+Ashraf, Asadi, ashraf@example.com, Automata and Computability, https://ashrfasadi.com
+Asad, Rezek, assad@example.com, Web Computability, https://example.com
+Aya, Mohammed, Aya@example.com, Web Computability, https://example.com
+Nora, Abood, Nora@example.com, Web Computability, https://example.com
+Marian, Sayegh, Marian@example.com, Web Computability, https://example.com
